@@ -9,5 +9,4 @@ This project features an AI-driven movie recommender conversational system using
 # DEMO 
 This showcases user having a back and forth conversation with AI to get Movie Recommendation in real time. 
 
-![Screenshot 2024-05-02 at 2 34 26 PM](https://github.com/TanzilaRahman/AI-MovieRecommender/assets/110073037/23a610fb-4069-4d47-ad40-b2f96bb2b07c)
-
+![ConversationWithAI](https://github.com/TanzilaRahman/AI-MovieRecommender/assets/110073037/293cb6f8-8cf2-43cf-8d98-9b7dee950786)
